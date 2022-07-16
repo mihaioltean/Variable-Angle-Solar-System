@@ -27,14 +27,15 @@ You need [OpenSCAD](http://www.openscad.org) to visualize it.
 
 
 ![screw ring](materials/screw_ring.png)
-![corner](materials/corner.png)
 ![tube for panels](materials/tube_for_panel.png)
-
+![corner](materials/corner.png)
 
 ## Pictures
 
-![all.jpg](pictures/all.jpg)
 
+![all.jpg](pictures/all.jpg)
+![partial](pictures/partial.jpg)
+![ring1](pictures/ring1.jpg)
 
 ## Author
 
