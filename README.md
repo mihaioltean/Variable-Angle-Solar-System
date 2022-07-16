@@ -25,6 +25,10 @@ You need [OpenSCAD](www.openscad.org) to visualize it.
 - 40x20x2 tubes - for vertical support. 6 holes are needed for various angles.
 - 50mm corners - for fixing the panels to tubes. I've made them from aluminium. 
 
+## Pictures
+
+![screw ring](screw_ring.jpg)
+
 ## Author
 
 Mihai Oltean
