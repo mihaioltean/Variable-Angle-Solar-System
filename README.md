@@ -26,7 +26,7 @@ You need [OpenSCAD](www.openscad.org) to visualize it.
 - 50mm corners - for fixing the panels to tubes. I've made them from aluminium. 
 
 
-![screw ring](materials/screw_ring.jpg)
+![screw ring](materials/screw_ring.jpeg)
 
 ## Pictures
 
