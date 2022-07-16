@@ -1,4 +1,4 @@
-# A Variable-angle solar system
+# A variable-angle solar system
 
 ## Motivation
 
@@ -19,7 +19,7 @@ You need [OpenSCAD](http://www.openscad.org) to visualize it. Just load the scad
 
 ## Bill of Materials (BOM)
 
-- Screws with 30mm rings. - about 4 of them for each panel. Screws will lock the system in the roof. They have to be long enough to enter minimum 5cm in the roof.
+- Screws with 30mm rings. - about 4 of them for each panel. Screws will lock the system in the roof. They have to be long enough to enter minimum 5-10cm in the roof. I use 16cm long screws.
 - 20x20x2mm tubes. They are placed at the base and pass through the rings of the screws.
 - 40x20x2mm tubes - for supporting the solar panels. Length depends on the size of the solar panels.
 - 40x20x2 tubes - for vertical support. 6 holes are needed for various angles.
