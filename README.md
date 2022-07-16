@@ -48,7 +48,11 @@ MIT
 ## Disclaimer
 
 I'm not a qualified person for designing solar systems!
+
 This is my home design. I offer no warranty or watsoever for it!
+
 Please ask a qualified person when designing such system!
+
 Bad design or execution can lead to injury or even death!
+
 Don't blaim me if something bad happens to you because of this system.
