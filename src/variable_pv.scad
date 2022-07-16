@@ -195,9 +195,10 @@ module main()
 }
 //------------------------------------------------------------------------------------
 
-//main();
+main();
 
 //solar_panel_transverse();
 //solar_panel_hyundai();
+//transverse_for_solar_panel();
 
-corner();
+//corner();

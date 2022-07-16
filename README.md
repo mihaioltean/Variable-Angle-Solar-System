@@ -27,6 +27,9 @@ You need [OpenSCAD](http://www.openscad.org) to visualize it.
 
 
 ![screw ring](materials/screw_ring.png)
+![corner](corner.png)
+![tube for panels](tube_for_panels.png)
+
 
 ## Pictures
 
