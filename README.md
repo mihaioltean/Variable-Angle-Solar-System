@@ -15,7 +15,7 @@ So, I decided to build a variable-angle solar system...
 ## Source code
 
 If you want to visualize the system, you can download the source code from the [src](src) folder.
-You need [OpenSCAD](http://www.openscad.org) to visualize it.
+You need [OpenSCAD](http://www.openscad.org) to visualize it. Just load the scad file and press F5 or the Preview button.
 
 ## Bill of Materials (BOM)
 
